@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Masters and in creating my own company<br>👯 I’m looking to collaborate on start-up projects<br>🤝 I’m looking for help with creating new connections<br>🌱 I’m currently learning Data Science, Artificial Intelligence and UX/UI Design<br>💬 Ask me about cooking<br>⚡ Fun fact I love learning new hobbies
+🔭 I’m currently working on my Masters and in creating my own company<br>👯 I’m looking to collaborate on start-up projects<br>🤝 I’m looking for help with creating new connections<br>🌱 I’m currently learning Data Science and Artificial Intelligence<br>💬 Ask me about cooking<br>⚡ Fun fact I love learning new hobbies
 
 
 ## 🌐 Socials:
